@@ -12,6 +12,8 @@ Key Features Project Showcases:
   GitHub Pages: Hosted using GitHub Pages, ensuring high availability and easy access.
 
 Usage Visit My Portfolio: https://heet09.github.io/Portfolio_Project/
+
 Explore Projects: Browse through various projects and read detailed descriptions, view source code, and understand the technologies used.
+
 Get in Touch: https://www.linkedin.com/in/heet-shah-8139a3172/
 
